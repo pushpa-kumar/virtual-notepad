@@ -7,3 +7,4 @@ week5 implimentation is in https://drive.google.com/drive/folders/1oSrU_57EqKMro
 
 
 
+[instructions.pdf](https://github.com/user-attachments/files/16228119/instructions.pdf)
