@@ -4,6 +4,7 @@
 This project’s main goal is to develop a virtual notepad that uses hand gestures captured by a webcam to enable users to write, erase, and predict handwritten characters. In order to provide a seamless drawing and writing experience, this project makes use of computer vision and machine learning techniques to recognize and respond to hand gestures.
 ---
 video demo
+[YouTube](https://youtu.be/K84tn0yQ__Q)
 [drive link](https://drive.google.com/file/d/1PrH728BrdRyEIjxaC3Xtjr0YZCub2njh/view?usp=drive_link)
 
 
@@ -72,4 +73,7 @@ For any queries, feel free to reach out:
 
 
 
-week5 implimentation is in [drive link](https://drive.google.com/drive/folders/1oSrU_57EqKMrofD0000tbRzIO92w_8D7?usp=drive_link)
+week5 implimentation in [drive link](https://drive.google.com/drive/folders/1oSrU_57EqKMrofD0000tbRzIO92w_8D7?usp=drive_link)
+- drag and drop[YouTube](https://youtu.be/_Y4TTEYIbiI)
+- sound[YouTube](https://youtu.be/V_DCzM7plHk)
+- pause[YouTube](https://youtu.be/Zs2i97hEORg)
