@@ -60,6 +60,9 @@ For detailed instructions, please refer to the [Usage Guide.](https://github.com
 - **NumPy** for numerical operations
 - **TensorFlow** for character recognition
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/pushpa-kumar/virtual-notepad/blob/master/LICENSE) file for details.
+
 ## Contact
 For any queries, feel free to reach out:
 - GitHub:[pushpa-kumar](https://github.com/pushpa-kumar)
@@ -67,13 +70,6 @@ For any queries, feel free to reach out:
 - Email:kondapushpakumar222@gmail.com
 
 
-Developing a programme which can work as a virtual notepad 
-Using:
-  tensorflow(keras)
-  openCV
-
-week5 implimentation is in https://drive.google.com/drive/folders/1oSrU_57EqKMrofD0000tbRzIO92w_8D7?usp=drive_link
 
 
-
-[instructions.pdf](https://github.com/user-attachments/files/16228119/instructions.pdf)
+week5 implimentation is in [drive link](https://drive.google.com/drive/folders/1oSrU_57EqKMrofD0000tbRzIO92w_8D7?usp=drive_link)
